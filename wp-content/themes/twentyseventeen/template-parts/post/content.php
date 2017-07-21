@@ -28,7 +28,7 @@
 					echo twentyseventeen_time_link();
 					twentyseventeen_edit_link();
 				};
-			echo '</div><!-- .entry-meta -->';
+			echo ' tgtggt</div><!-- .entry-meta -->';
 		};
 
 		if ( is_single() ) {
