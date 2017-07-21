@@ -28,7 +28,7 @@
 					echo twentyseventeen_time_link();
 					twentyseventeen_edit_link();
 				};
-			echo ' tgtggt</div><!-- .entry-meta -->';
+			echo ' werfwerwe</div><!-- .entry-meta -->';
 		};
 
 		if ( is_single() ) {
